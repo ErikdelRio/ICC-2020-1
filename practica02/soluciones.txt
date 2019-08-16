@@ -1,0 +1,11 @@
+Línea 9: No reconoció el símbolo booleaN. Cambié este símbolo a boolean.
+Línea 9: La declaración de la variable booleana prop, no tenía un tipo compatible con el entero 0. Cambié este valor a false.
+Línea 10: El valor que se le asignó a ochoBits estaba fuera de rango. Cambié el valor a 127.
+Línea 11: El valor qu ese le asignó a dieciseisBits estaba fuera de rango. Cambié el valor a -32768
+Línea 14: No reconoció la palabra Discriminante. Cambié su identificador a discriminante.
+Línea 14: El valor que se la asignó a x1 era el incorrecto, long en lugar de double. Cambié su tipo a double.
+Línea 17: No se reconoció el símbolo Char. Cambié el símbolo a char. 
+Línea 18: No reconoció la variable ch. Cambié su identificador a ch1.
+Línea 18: No pudo guardar el valor de la cadena w a la variable caracter ch2.
+
+Línea 19: No pudo dividir entre 0. Cambié (a-3) a (a-2).
