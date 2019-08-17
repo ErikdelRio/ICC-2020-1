@@ -6,7 +6,7 @@ public class Sintaxis {
 		int a, b = 20, c;
 		a = 3; c = -7;
 
-		boolean prop = true;
+		boolean prop = false;
 		byte ochoBits = 127;
 		short dieciseisBits = -32768;
 
