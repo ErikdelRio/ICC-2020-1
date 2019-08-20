@@ -1,0 +1,14 @@
+PrePost.java
+La variable x vale 20 al momento de declararla y asignarle el valor de 20;
+En la linea 5, el valor de x se reduce 1, a 19. Y en la siguiente linea se imprime 19.
+En la linea 7, el valor de x se vuelve a reducir en 1, a 18. En la siguiente linea se imprime 8.
+
+En la linea 9, como el ++ esta antes que  x, su valor se reduce en 1, a 17, antes que se imprima. Y despues se imprime 17.
+En la linea 10, como el -- esta despues de la x, su valor se va a reducir despues de que imprima el valor. Entonces imprime 17, y despues reduce su valor.
+
+Finalmente imprime 16 en la linea 11.
+
+Operadores.java
+En el primer println, las dos variables utilizadas son enteras, por lo que no puede asignarle un punto decimal a la division resultante. Entonces lo que hizo java fue quitarle el valor de punto decimal y devolvio solo la parte entera.
+
+En el segundo println, el dividendo era decimal, por lo que si utilizo los decimales para poder dividir. Entonces el resultado fue un decimal.
