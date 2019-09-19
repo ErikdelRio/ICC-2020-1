@@ -90,4 +90,28 @@ public class Triangulo{
 	}
 	return ISOSCELES;
     }
+
+    /**
+     * Obtiene el punto a
+     * @return Punto El primer punto
+     */
+    public Punto getA(){
+	return a;
+    }
+
+    /**
+     * Obtiene el punto b
+     * @return Punto El segundo punto
+     */
+    public Punto getB(){
+	return b;
+    }
+
+    /**
+     * Obtiene el punto c
+     * @return Punto El tercer punto
+     */
+    public Punto getC(){
+	return c;
+    }
 }
